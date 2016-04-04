@@ -14,4 +14,4 @@ Issues:
 - Server should have a separate console thread for various commands.
 - Clients have a fixed action flow.
 
-* Note: * It's an educational project built in a weekend, nothing fancy.
+**Note:** It's an educational project built in a weekend, nothing fancy.
